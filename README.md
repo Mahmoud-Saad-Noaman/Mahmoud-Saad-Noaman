@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=00BFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=.NET+Developer;C#+%7C+ASP.NET+Core+%7C+Entity+Framework;Building+Scalable+Web+Applications;Clean+Code+%7C+API+Development" alt=".NET Developer Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=.Net+Developer;Building+Robust+Web+Applications" alt=".Net Developer Banner" />
 </p>
 
 
