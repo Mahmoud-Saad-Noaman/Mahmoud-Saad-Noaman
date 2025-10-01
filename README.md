@@ -70,7 +70,7 @@
 - 🥇 **Software Practices (Clean Code)**  <a href="https://www.udemy.com/certificate/UC-2bef0a00-92ed-4f57-8d54-b63635db8bd5/" target="_blank"> Click
 - 🥇 **SOLID Design Principles**  <a href="https://www.udemy.com/certificate/UC-35343010-aab5-4d71-bc35-0309d34549c8/" target="_blank"> Click
 - 🥇 **RESTful Web API**  <a href="https://www.udemy.com/certificate/UC-57eea351-954a-4b20-a222-53adc021f23a/" target="_blank"> Click
-- 🥇 ****  <a href="" target="_blank"> Click
+- 🥇 **Clean Architecture in .NET Core MVC[.NET 8]**  <a href="https://www.udemy.com/certificate/UC-a3258b40-7c7a-4765-bdb3-796dfd391d35/" target="_blank"> Click
 - 🥇 ****  <a href="" target="_blank"> Click
 - 🥇 ****  <a href="" target="_blank"> Click
 - 🥇 ****  <a href="" target="_blank"> Click
