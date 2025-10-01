@@ -58,7 +58,10 @@
 ## 🎓 Education
 
 **Thebes Academy** – Egypt  
-**Bachelor of Computer Science** | *2021 – 2025*
+**Bachelor of Computer Science** | *2021 – 2025*  
+📚 **Cumulative GPA:** 3.29 (Grade: **B+**)  
+🎓 **Graduation Project GPA:** 4.0 (Grade: **A+**) 
+
 
 ---
 
